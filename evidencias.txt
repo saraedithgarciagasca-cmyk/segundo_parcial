@@ -68,3 +68,79 @@ Resultado de la compra de boletos de cine
 +---------------------+---------+
 | Total a pagar       | $405.00 |
 +---------------------+---------+
+
+
+Ejercicio 2. Consumo de combustible
+===================================
+
+--- Caso 1: 120 km, 10 litros ---
+Distancia recorrida (km): 120
+Litros consumidos: 10
+Resultado del consumo de combustible del recorrido
++-----------------------------+------------+
+| Concepto                    |      Valor |
++=============================+============+
+| Distancia recorrida         |  120.00 km |
++-----------------------------+------------+
+| Litros consumidos           |    10.00 L |
++-----------------------------+------------+
+| Precio por litro            |     $24.00 |
++-----------------------------+------------+
+| Rendimiento del vehículo    | 12.00 km/L |
++-----------------------------+------------+
+| Costo total del combustible |    $240.00 |
++-----------------------------+------------+
+
+--- Caso 2: 250 km, 20 litros ---
+Distancia recorrida (km): 250
+Litros consumidos: 20
+Resultado del consumo de combustible del recorrido
++-----------------------------+------------+
+| Concepto                    |      Valor |
++=============================+============+
+| Distancia recorrida         |  250.00 km |
++-----------------------------+------------+
+| Litros consumidos           |    20.00 L |
++-----------------------------+------------+
+| Precio por litro            |     $24.00 |
++-----------------------------+------------+
+| Rendimiento del vehículo    | 12.50 km/L |
++-----------------------------+------------+
+| Costo total del combustible |    $480.00 |
++-----------------------------+------------+
+
+--- Caso 3: 180 km, 15 litros ---
+Distancia recorrida (km): 180
+Litros consumidos: 15
+Resultado del consumo de combustible del recorrido
++-----------------------------+------------+
+| Concepto                    |      Valor |
++=============================+============+
+| Distancia recorrida         |  180.00 km |
++-----------------------------+------------+
+| Litros consumidos           |    15.00 L |
++-----------------------------+------------+
+| Precio por litro            |     $24.00 |
++-----------------------------+------------+
+| Rendimiento del vehículo    | 12.00 km/L |
++-----------------------------+------------+
+| Costo total del combustible |    $360.00 |
++-----------------------------+------------+
+
+--- Caso 4: 300 km, 25 litros ---
+Distancia recorrida (km): 300
+Litros consumidos: 25
+Resultado del consumo de combustible del recorrido
++-----------------------------+------------+
+| Concepto                    |      Valor |
++=============================+============+
+| Distancia recorrida         |  300.00 km |
++-----------------------------+------------+
+| Litros consumidos           |    25.00 L |
++-----------------------------+------------+
+| Precio por litro            |     $24.00 |
++-----------------------------+------------+
+| Rendimiento del vehículo    | 12.00 km/L |
++-----------------------------+------------+
+| Costo total del combustible |    $600.00 |
++-----------------------------+------------+

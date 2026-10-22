@@ -6,6 +6,21 @@ from ejercicios.ejercicio1_cine import (
 )
 
 
+from ejercicios.ejercicio2_combustible import (
+    leerDatos,
+    calcularRendimiento,
+    calcularCosto,
+    mostrarResultados,
+)
+
+
+def ejercicio2():
+    distancia, litros = leerDatos()
+    rendimiento = calcularRendimiento(distancia, litros)
+    costo = calcularCosto(litros)
+    mostrarResultados(distancia, litros, rendimiento, costo)
+
+
 def ejercicio1():
     cantidad = leerCantidad()
     subtotal = calcularSubtotal(cantidad)
@@ -28,7 +43,7 @@ def ejecutar_menu():
         if opcion == "1":
             ejercicio1()
         elif opcion == "2":
-            print("Ejercicio 2 Consumo de combustible (pendiente)")
+            ejercicio2()
         elif opcion == "0":
             print("Programa terminado.")
             break
