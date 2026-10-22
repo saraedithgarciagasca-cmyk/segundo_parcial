@@ -1,3 +1,18 @@
+from ejercicios.ejercicio1_cine import (
+    leerCantidad,
+    calcularSubtotal,
+    calcularDescuento,
+    mostrarCompra,
+)
+
+
+def ejercicio1():
+    cantidad = leerCantidad()
+    subtotal = calcularSubtotal(cantidad)
+    descuento = calcularDescuento(subtotal, cantidad)
+    mostrarCompra(cantidad, subtotal, descuento)
+
+
 def mostrar_menu():
     print("\n===== MENÚ PRINCIPAL =====")
     print("1. Ejercicio 1. Venta de boletos de cine")
@@ -11,7 +26,7 @@ def ejecutar_menu():
         opcion = input("Selecciona una opción: ").strip()
 
         if opcion == "1":
-            print("Ejercicio 1 Venta de boletos de cine (pendiente)")
+            ejercicio1()
         elif opcion == "2":
             print("Ejercicio 2 Consumo de combustible (pendiente)")
         elif opcion == "0":

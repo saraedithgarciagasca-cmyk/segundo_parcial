@@ -1,0 +1,70 @@
+Ejercicio 1. Venta de boletos de cine
+=====================================
+
+--- Caso 1: 1 boleto(s) ---
+Cantidad de boletos a comprar: 1
+Resultado de la compra de boletos de cine
++---------------------+---------+
+| Concepto            |   Valor |
++=====================+=========+
+| Cantidad de boletos |       1 |
++---------------------+---------+
+| Precio unitario     |  $75.00 |
++---------------------+---------+
+| Subtotal            |  $75.00 |
++---------------------+---------+
+| Descuento aplicado  |   $0.00 |
++---------------------+---------+
+| Total a pagar       |  $75.00 |
++---------------------+---------+
+
+--- Caso 2: 3 boleto(s) ---
+Cantidad de boletos a comprar: 3
+Resultado de la compra de boletos de cine
++---------------------+---------+
+| Concepto            |   Valor |
++=====================+=========+
+| Cantidad de boletos |       3 |
++---------------------+---------+
+| Precio unitario     |  $75.00 |
++---------------------+---------+
+| Subtotal            | $225.00 |
++---------------------+---------+
+| Descuento aplicado  |   $0.00 |
++---------------------+---------+
+| Total a pagar       | $225.00 |
++---------------------+---------+
+
+--- Caso 3: 4 boleto(s) ---
+Cantidad de boletos a comprar: 4
+Resultado de la compra de boletos de cine
++---------------------+---------+
+| Concepto            |   Valor |
++=====================+=========+
+| Cantidad de boletos |       4 |
++---------------------+---------+
+| Precio unitario     |  $75.00 |
++---------------------+---------+
+| Subtotal            | $300.00 |
++---------------------+---------+
+| Descuento aplicado  |  $30.00 |
++---------------------+---------+
+| Total a pagar       | $270.00 |
++---------------------+---------+
+
+--- Caso 4: 6 boleto(s) ---
+Cantidad de boletos a comprar: 6
+Resultado de la compra de boletos de cine
++---------------------+---------+
+| Concepto            |   Valor |
++=====================+=========+
+| Cantidad de boletos |       6 |
++---------------------+---------+
+| Precio unitario     |  $75.00 |
++---------------------+---------+
+| Subtotal            | $450.00 |
++---------------------+---------+
+| Descuento aplicado  |  $45.00 |
++---------------------+---------+
+| Total a pagar       | $405.00 |
++---------------------+---------+
