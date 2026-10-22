@@ -1,21 +1,15 @@
 # segundo_parcial
 
-Proyecto del Segundo Examen Parcial de Programación Aplicada II (Universidad Iberoamericana León).
+Proyecto del Segundo Examen Parcial de Programación Aplicada II 
+Nombre: Sara Edith Garcia Gasca 
+Matrícula: 196677-4
+Grupo: GF programacion 
 
-## Propósito
+## Descripcion
 
 Aplicación de consola en Python con un menú que resuelve dos ejercicios:
 
 1. **Venta de boletos de cine**: calcula subtotal, descuento (10% a partir de 4 boletos) y total a pagar.
-2. **Consumo de combustible**: calcula el rendimiento (km/L) y el costo total del combustible.
+2. **Consumo de combustible**: calcula el rendimiento y el costo total del combustible.
 
-Los resultados se presentan en tablas con la biblioteca `tabulate`.
-
-## Uso
-
-```bash
-python -m venv .venv
-.venv\Scripts\activate        # Windows  (macOS/Linux: source .venv/bin/activate)
-pip install -r requirements.txt
-python main.py
-```
+Los resultados se presentan en tablas con la biblioteca `tabulate`
